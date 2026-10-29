@@ -1,0 +1,17 @@
+C:\Users\Renan\source\repos\form\form\bin\Debug\net10.0-windows\form.exe
+C:\Users\Renan\source\repos\form\form\bin\Debug\net10.0-windows\form.deps.json
+C:\Users\Renan\source\repos\form\form\bin\Debug\net10.0-windows\form.runtimeconfig.json
+C:\Users\Renan\source\repos\form\form\bin\Debug\net10.0-windows\form.dll
+C:\Users\Renan\source\repos\form\form\bin\Debug\net10.0-windows\form.pdb
+C:\Users\Renan\source\repos\form\form\obj\Debug\net10.0-windows\form.Form1.resources
+C:\Users\Renan\source\repos\form\form\obj\Debug\net10.0-windows\form.csproj.GenerateResource.cache
+C:\Users\Renan\source\repos\form\form\obj\Debug\net10.0-windows\form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\form\form\obj\Debug\net10.0-windows\form.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\form\form\obj\Debug\net10.0-windows\form.AssemblyInfo.cs
+C:\Users\Renan\source\repos\form\form\obj\Debug\net10.0-windows\form.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\form\form\obj\Debug\net10.0-windows\form.dll
+C:\Users\Renan\source\repos\form\form\obj\Debug\net10.0-windows\refint\form.dll
+C:\Users\Renan\source\repos\form\form\obj\Debug\net10.0-windows\form.pdb
+C:\Users\Renan\source\repos\form\form\obj\Debug\net10.0-windows\form.genruntimeconfig.cache
+C:\Users\Renan\source\repos\form\form\obj\Debug\net10.0-windows\ref\form.dll
+C:\Users\Renan\source\repos\form\form\obj\Debug\net10.0-windows\form.csproj.Up2Date
